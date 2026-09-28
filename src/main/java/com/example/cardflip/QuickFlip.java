@@ -4,6 +4,7 @@ package com.example.cardflip;
  * Viser et spillekort
  * Når man trykker på kortet vendes kortet med en serie af 2D-transitioner
  * EK sep. 2023
+ * Version 1 hvor hele koden er i en klasse (ikke så pænt)
  **********/
 
 import javafx.animation.*;
